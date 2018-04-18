@@ -1,0 +1,7 @@
+C:\Users\Jables\source\repos\TreehouseDefense\bin\Debug\TreehouseDefense.exe.config
+C:\Users\Jables\source\repos\TreehouseDefense\bin\Debug\TreehouseDefense.exe
+C:\Users\Jables\source\repos\TreehouseDefense\bin\Debug\TreehouseDefense.pdb
+C:\Users\Jables\source\repos\TreehouseDefense\obj\Debug\TreehouseDefense.csprojResolveAssemblyReference.cache
+C:\Users\Jables\source\repos\TreehouseDefense\obj\Debug\TreehouseDefense.csproj.CoreCompileInputs.cache
+C:\Users\Jables\source\repos\TreehouseDefense\obj\Debug\TreehouseDefense.exe
+C:\Users\Jables\source\repos\TreehouseDefense\obj\Debug\TreehouseDefense.pdb
